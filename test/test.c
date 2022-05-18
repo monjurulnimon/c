@@ -2,6 +2,8 @@
 
 int main(){
 	printf("hello world");
+	printf("Self uploading");
+
 	return 0;
 }
 
